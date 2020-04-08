@@ -1,4 +1,4 @@
-#Hello WOrld this is Himanshuology
+
 import numpy as him
 array=him.array([[0,1,2,3],[2,5,8,9],[4,5,7,96]],dtype='int')
 print(array)
